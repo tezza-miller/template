@@ -1,6 +1,7 @@
 {
     "name": "tezza-miller/template",
     "description": "A basic template featur",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "terry miller",
