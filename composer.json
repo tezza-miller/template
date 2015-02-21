@@ -1,0 +1,12 @@
+{
+    "name": "tezza-miller/template",
+    "description": "A basic template featur",
+    "authors": [
+        {
+            "name": "terry miller",
+            "email": "terry-miller-1@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
