@@ -2,6 +2,9 @@
 
 class Template {
 
-
+  function getHello()
+  {
+    return "HELLO";
+  }
 
 }
