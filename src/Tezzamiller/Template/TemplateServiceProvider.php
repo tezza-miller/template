@@ -18,7 +18,7 @@ class TemplateServiceProvider extends ServiceProvider {
 	 */
 	public function boot()
 	{
-		$this->package('tezzamiller/template');
+		//$this->package('tezzamiller/template');
 	}
 
 	/**
