@@ -6,5 +6,10 @@ class Template {
   {
     return "HELLO";
   }
+  
+  function getLine()
+  {
+    return "Line";
+  }
 
 }
