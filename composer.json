@@ -17,6 +17,9 @@
         "psr-0": {
             "Tezzamiller\\Template\\": "src/"
         }
+        "psr-4": {
+            "tezzamiller\\template\\": "src\\Template"
+        }
     },
     "minimum-stability": "stable"
 }
