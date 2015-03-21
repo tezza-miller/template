@@ -1,4 +1,4 @@
-<?php namespace Template;
+<?php namespace tezzamiller\template;
 
 class Template {
 
